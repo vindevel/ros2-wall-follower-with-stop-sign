@@ -58,7 +58,7 @@ https://youtu.be/UZNEorQzys4
 
 ### 2. Control Logic
 - LiDAR 센서를 이용해 벽 따라가기 알고리즘을 구현
-- YOLOv5n 모델이 Stop Sign 표지판을 인식하면 즉각 정지 명령을 수행
+- YOLOv5n 모델이 Stop Sign 감지 시 ROS2 토픽 기반 3초 정지 이벤트 수행
 
 <br>
 
